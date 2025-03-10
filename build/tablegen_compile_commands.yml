@@ -1,0 +1,222 @@
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch2/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch2/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch2/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch2/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch2/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch2/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch2/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch2/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch2/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch2/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch2/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch2/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch2/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch2/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch2/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch2/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch3/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch3/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch3/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch3/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch3/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch3/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch3/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch3/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch3/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch3/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch3/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch3/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch3/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch3/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch3/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch3/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch3/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch3/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch3/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch3/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch3/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch3/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch3/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch3/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch3/mlir/ToyCombine.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch3;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch3/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch3/mlir/ToyCombine.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch3;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch3/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/mlir/ToyCombine.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch4/mlir/ToyCombine.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch4;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch4/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/mlir/ToyCombine.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch5/mlir/ToyCombine.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch5;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch5/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/mlir/ToyCombine.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch6/mlir/ToyCombine.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch6;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch6/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/Ops.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/include/toy/ShapeInferenceInterface.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7/include/toy;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/mlir/ToyCombine.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
+--- !FileInfo:
+  filepath: "/home/lucas/Project/toy-mlir/Ch7/mlir/ToyCombine.td"
+  includes: "/home/lucas/Project/toy-mlir/Ch7;/home/lucas/llvm-project/llvm/include;/home/lucas/llvm-project/build/include;/home/lucas/llvm-project/mlir/include;/home/lucas/llvm-project/build/tools/mlir/include;/home/lucas/Project/toy-mlir/build/include;/home/lucas/Project/toy-mlir/Ch7/include"
